@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\bin\Debug\Operators.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\bin\Debug\Operators.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\bin\Debug\Operators.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\obj\Debug\Operators.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Operators\obj\Debug\Operators.pdb

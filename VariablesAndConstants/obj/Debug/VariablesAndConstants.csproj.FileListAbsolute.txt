@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\bin\Debug\VariablesAndConstants.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\bin\Debug\VariablesAndConstants.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\bin\Debug\VariablesAndConstants.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\obj\Debug\VariablesAndConstants.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\obj\Debug\VariablesAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\obj\Debug\VariablesAndConstants.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\VariablesAndConstants\obj\Debug\VariablesAndConstants.pdb

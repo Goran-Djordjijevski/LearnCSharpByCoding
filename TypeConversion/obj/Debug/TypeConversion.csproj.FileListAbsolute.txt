@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\bin\Debug\TypeConversion.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\bin\Debug\TypeConversion.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\bin\Debug\TypeConversion.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\obj\Debug\TypeConversion.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TypeConversion\obj\Debug\TypeConversion.pdb

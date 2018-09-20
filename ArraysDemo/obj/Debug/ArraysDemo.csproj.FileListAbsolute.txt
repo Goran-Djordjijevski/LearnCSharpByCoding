@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\bin\Debug\ArraysDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\bin\Debug\ArraysDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\bin\Debug\ArraysDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\obj\Debug\ArraysDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\obj\Debug\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\obj\Debug\ArraysDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ArraysDemo\obj\Debug\ArraysDemo.pdb

@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\bin\Debug\ClassesDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\bin\Debug\ClassesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\bin\Debug\ClassesDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\obj\Debug\ClassesDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\obj\Debug\ClassesDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\obj\Debug\ClassesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ClassesDemo\obj\Debug\ClassesDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ReferenceAndValueTypesDemo\bin\Debug\ReferenceAndValueTypesDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ReferenceAndValueTypesDemo\bin\Debug\ReferenceAndValueTypesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ReferenceAndValueTypesDemo\bin\Debug\ReferenceAndValueTypesDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ReferenceAndValueTypesDemo\obj\Debug\ReferenceAndValueTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ReferenceAndValueTypesDemo\obj\Debug\ReferenceAndValueTypesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ReferenceAndValueTypesDemo\obj\Debug\ReferenceAndValueTypesDemo.pdb

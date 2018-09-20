@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDemo", "StringDemo\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumsDemo", "EnumsDemo\EnumsDemo.csproj", "{5BCF92D5-864A-4C63-84A4-6D13EA47B7F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueTypesDemo", "ReferenceAndValueTypesDemo\ReferenceAndValueTypesDemo.csproj", "{B65A8C86-AA5A-45D2-9DA3-BA8B1FBDC03B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{5BCF92D5-864A-4C63-84A4-6D13EA47B7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BCF92D5-864A-4C63-84A4-6D13EA47B7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BCF92D5-864A-4C63-84A4-6D13EA47B7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65A8C86-AA5A-45D2-9DA3-BA8B1FBDC03B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65A8C86-AA5A-45D2-9DA3-BA8B1FBDC03B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65A8C86-AA5A-45D2-9DA3-BA8B1FBDC03B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65A8C86-AA5A-45D2-9DA3-BA8B1FBDC03B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +73,7 @@ Global
 		{F71A03DE-2958-43E6-8C56-84CB9997A4E8} = {DD410D4C-78E6-496F-9527-52600D001469}
 		{39789972-8A68-4CEB-BFC2-0C8CC3D8FCE3} = {DD410D4C-78E6-496F-9527-52600D001469}
 		{5BCF92D5-864A-4C63-84A4-6D13EA47B7F0} = {DD410D4C-78E6-496F-9527-52600D001469}
+		{B65A8C86-AA5A-45D2-9DA3-BA8B1FBDC03B} = {DD410D4C-78E6-496F-9527-52600D001469}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

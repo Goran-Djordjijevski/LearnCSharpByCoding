@@ -1,0 +1,6 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\EnumsDemo\bin\Debug\EnumsDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\EnumsDemo\bin\Debug\EnumsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\EnumsDemo\bin\Debug\EnumsDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\EnumsDemo\obj\Debug\EnumsDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\EnumsDemo\obj\Debug\EnumsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\EnumsDemo\obj\Debug\EnumsDemo.pdb

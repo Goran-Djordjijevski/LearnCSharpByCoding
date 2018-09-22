@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\bin\Debug\IfElseSwitchDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\bin\Debug\IfElseSwitchDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\bin\Debug\IfElseSwitchDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\obj\Debug\IfElseSwitchDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\obj\Debug\IfElseSwitchDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\obj\Debug\IfElseSwitchDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IfElseSwitchDemo\obj\Debug\IfElseSwitchDemo.pdb

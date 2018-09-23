@@ -19,7 +19,21 @@ namespace IfElseSwitchExercises
             //2 - Write a program which takes two numbers from the console and displays the maximum of the two.
             //ExampleTwo();
 
+            //3 - Write a program and ask the user to enter the width and height of an image.Then tell if the image is landscape or portrait.
+
+            //ExampleThree();
+
             Console.ReadLine();
+        }
+
+        private static void ExampleThree()
+        {
+            Console.Write("Please enter the width and height of an image: ");
+            int width = Convert.ToInt32(Console.ReadLine());
+            int height = Convert.ToInt32(Console.ReadLine());
+
+            var result = width > height ? "Image is landscape" : "Image is portrait";
+            Console.WriteLine(result);
         }
 
         private static void ExampleTwo()

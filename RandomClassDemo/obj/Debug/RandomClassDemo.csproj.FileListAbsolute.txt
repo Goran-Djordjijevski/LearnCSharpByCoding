@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\bin\Debug\RandomClassDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\bin\Debug\RandomClassDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\bin\Debug\RandomClassDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\obj\Debug\RandomClassDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\obj\Debug\RandomClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\obj\Debug\RandomClassDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\RandomClassDemo\obj\Debug\RandomClassDemo.pdb

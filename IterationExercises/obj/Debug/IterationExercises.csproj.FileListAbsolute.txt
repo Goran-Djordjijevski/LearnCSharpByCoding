@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\bin\Debug\IterationExercises.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\bin\Debug\IterationExercises.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\bin\Debug\IterationExercises.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\obj\Debug\IterationExercises.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\obj\Debug\IterationExercises.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\obj\Debug\IterationExercises.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationExercises\obj\Debug\IterationExercises.csprojAssemblyReference.cache

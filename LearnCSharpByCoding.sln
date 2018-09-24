@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationDemo", "IterationD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomClassDemo", "RandomClassDemo\RandomClassDemo.csproj", "{5DEFB17F-7234-4AD4-AAD9-1D1144D34926}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationExercises", "IterationExercises\IterationExercises.csproj", "{8DE2C147-A0D3-4FA7-8CAD-BE81050A9179}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5DEFB17F-7234-4AD4-AAD9-1D1144D34926}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DEFB17F-7234-4AD4-AAD9-1D1144D34926}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DEFB17F-7234-4AD4-AAD9-1D1144D34926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE2C147-A0D3-4FA7-8CAD-BE81050A9179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE2C147-A0D3-4FA7-8CAD-BE81050A9179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE2C147-A0D3-4FA7-8CAD-BE81050A9179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE2C147-A0D3-4FA7-8CAD-BE81050A9179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +110,7 @@ Global
 		{4FDA459A-F387-48E8-BB26-08FF8AE76BE4} = {13BE3F39-6DFF-4810-9695-DA25A4621585}
 		{8AFA4FC3-3990-4C11-B25A-BD0A7C5D5026} = {13BE3F39-6DFF-4810-9695-DA25A4621585}
 		{5DEFB17F-7234-4AD4-AAD9-1D1144D34926} = {13BE3F39-6DFF-4810-9695-DA25A4621585}
+		{8DE2C147-A0D3-4FA7-8CAD-BE81050A9179} = {13BE3F39-6DFF-4810-9695-DA25A4621585}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

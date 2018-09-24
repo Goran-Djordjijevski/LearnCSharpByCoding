@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\bin\Debug\IterationDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\bin\Debug\IterationDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\bin\Debug\IterationDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\obj\Debug\IterationDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\obj\Debug\IterationDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\obj\Debug\IterationDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IterationDemo\obj\Debug\IterationDemo.pdb

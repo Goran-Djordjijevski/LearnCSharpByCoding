@@ -22,18 +22,23 @@ namespace IterationExercises
 
             //3 - Write a program and ask the user to enter a number. Compute the factorial of the number and print it on the console. For example, if the user enters 5, the program should calculate 5 x 4 x 3 x 2 x 1 and display it as 5! = 120.
 
+            //ExerciseThree();
+
+            Console.ReadLine();
+        }
+
+        private static void ExerciseThree()
+        {
             Console.Write("Enter a number: ");
             var input = Convert.ToInt32(Console.ReadLine());
-            var result = 1;
+            var result = input;
 
             for (int i = 1; i < input; i++)
             {
-                
+                result *= i;
             }
 
             Console.WriteLine($"Factorial is {result}");
-
-             Console.ReadLine();
         }
 
         private static void ExerciseTwo()

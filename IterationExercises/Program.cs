@@ -48,9 +48,9 @@ namespace IterationExercises
                     Console.WriteLine("You won!");
                     break;
                 }
-
-                Console.WriteLine("You lost!");
             }
+
+            Console.WriteLine("You lost!");
         }
 
         private static void ExerciseThree()

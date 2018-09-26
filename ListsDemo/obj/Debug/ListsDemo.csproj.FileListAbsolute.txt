@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\bin\Debug\ListsDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\bin\Debug\ListsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\bin\Debug\ListsDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\obj\Debug\ListsDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\obj\Debug\ListsDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\obj\Debug\ListsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ListsDemo\obj\Debug\ListsDemo.pdb

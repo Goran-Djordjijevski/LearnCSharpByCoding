@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\bin\Debug\DateTime.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\bin\Debug\DateTime.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\obj\Debug\DateTime.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\obj\Debug\DateTime.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DateTime\obj\Debug\DateTime.pdb

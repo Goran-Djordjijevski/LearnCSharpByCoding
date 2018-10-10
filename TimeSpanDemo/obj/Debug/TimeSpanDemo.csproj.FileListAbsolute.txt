@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\bin\Debug\TimeSpanDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\bin\Debug\TimeSpanDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\bin\Debug\TimeSpanDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\obj\Debug\TimeSpanDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\obj\Debug\TimeSpanDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\obj\Debug\TimeSpanDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\TimeSpanDemo\obj\Debug\TimeSpanDemo.pdb

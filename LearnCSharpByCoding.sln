@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoString", "DemoString\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarisingTextDemo", "SummarisingTextDemo\SummarisingTextDemo.csproj", "{5E7BE51E-6FB5-4A4D-A66E-E3D0B389A1E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderDemo", "StringBuilderDemo\StringBuilderDemo.csproj", "{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{5E7BE51E-6FB5-4A4D-A66E-E3D0B389A1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E7BE51E-6FB5-4A4D-A66E-E3D0B389A1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E7BE51E-6FB5-4A4D-A66E-E3D0B389A1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +172,7 @@ Global
 		{0BC21241-EF1F-406B-A37D-FBBD6F270CFF} = {01375905-A346-4866-B378-6232D865F596}
 		{A166E431-5E06-4E50-AF49-D005B48A8C77} = {1C667556-454B-4679-9122-8AE12F32BA79}
 		{5E7BE51E-6FB5-4A4D-A66E-E3D0B389A1E1} = {1C667556-454B-4679-9122-8AE12F32BA79}
+		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231} = {1C667556-454B-4679-9122-8AE12F32BA79}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

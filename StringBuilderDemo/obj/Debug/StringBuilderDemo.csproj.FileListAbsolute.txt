@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\bin\Debug\StringBuilderDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\obj\Debug\StringBuilderDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\obj\Debug\StringBuilderDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StringBuilderDemo\obj\Debug\StringBuilderDemo.pdb

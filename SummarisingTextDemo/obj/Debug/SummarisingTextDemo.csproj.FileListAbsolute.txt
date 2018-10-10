@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\bin\Debug\SummarisingTextDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\bin\Debug\SummarisingTextDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\bin\Debug\SummarisingTextDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\obj\Debug\SummarisingTextDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\obj\Debug\SummarisingTextDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\obj\Debug\SummarisingTextDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\SummarisingTextDemo\obj\Debug\SummarisingTextDemo.pdb

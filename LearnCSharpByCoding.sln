@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummarisingTextDemo", "Summ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderDemo", "StringBuilderDemo\StringBuilderDemo.csproj", "{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithTextDemo", "WorkingWithTextDemo\WorkingWithTextDemo.csproj", "{9AA2DFEE-2927-4470-8BEB-8E6F6B223098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA2DFEE-2927-4470-8BEB-8E6F6B223098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA2DFEE-2927-4470-8BEB-8E6F6B223098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA2DFEE-2927-4470-8BEB-8E6F6B223098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA2DFEE-2927-4470-8BEB-8E6F6B223098}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +179,7 @@ Global
 		{A166E431-5E06-4E50-AF49-D005B48A8C77} = {1C667556-454B-4679-9122-8AE12F32BA79}
 		{5E7BE51E-6FB5-4A4D-A66E-E3D0B389A1E1} = {1C667556-454B-4679-9122-8AE12F32BA79}
 		{BE4EADA0-50F4-472A-AE1D-793B7B1E8231} = {1C667556-454B-4679-9122-8AE12F32BA79}
+		{9AA2DFEE-2927-4470-8BEB-8E6F6B223098} = {1C667556-454B-4679-9122-8AE12F32BA79}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

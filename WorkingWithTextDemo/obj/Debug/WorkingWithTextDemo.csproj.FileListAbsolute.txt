@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\bin\Debug\WorkingWithTextDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\bin\Debug\WorkingWithTextDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\bin\Debug\WorkingWithTextDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\obj\Debug\WorkingWithTextDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\obj\Debug\WorkingWithTextDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\obj\Debug\WorkingWithTextDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithTextDemo\obj\Debug\WorkingWithTextDemo.pdb

@@ -4,3 +4,4 @@ C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DirectoryAndDirectoryInfoDem
 C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DirectoryAndDirectoryInfoDemo\obj\Debug\DirectoryAndDirectoryInfoDemo.csproj.CoreCompileInputs.cache
 C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DirectoryAndDirectoryInfoDemo\obj\Debug\DirectoryAndDirectoryInfoDemo.exe
 C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DirectoryAndDirectoryInfoDemo\obj\Debug\DirectoryAndDirectoryInfoDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DirectoryAndDirectoryInfoDemo\obj\Debug\DirectoryAndDirectoryInfoDemo.csprojAssemblyReference.cache

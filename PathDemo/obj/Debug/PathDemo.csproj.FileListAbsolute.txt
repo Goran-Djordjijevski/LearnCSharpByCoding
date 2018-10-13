@@ -1,0 +1,6 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PathDemo\bin\Debug\PathDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PathDemo\bin\Debug\PathDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PathDemo\bin\Debug\PathDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PathDemo\obj\Debug\PathDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PathDemo\obj\Debug\PathDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PathDemo\obj\Debug\PathDemo.pdb

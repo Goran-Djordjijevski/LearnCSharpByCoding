@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\bin\Debug\WorkingWithFilesExercise.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\bin\Debug\WorkingWithFilesExercise.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\bin\Debug\WorkingWithFilesExercise.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\obj\Debug\WorkingWithFilesExercise.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\obj\Debug\WorkingWithFilesExercise.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\obj\Debug\WorkingWithFilesExercise.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\WorkingWithFilesExercise\obj\Debug\WorkingWithFilesExercise.csprojAssemblyReference.cache

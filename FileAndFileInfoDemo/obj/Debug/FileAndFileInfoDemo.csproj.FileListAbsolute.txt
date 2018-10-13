@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\bin\Debug\FileAndFileInfoDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\bin\Debug\FileAndFileInfoDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\bin\Debug\FileAndFileInfoDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\obj\Debug\FileAndFileInfoDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\obj\Debug\FileAndFileInfoDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\obj\Debug\FileAndFileInfoDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FileAndFileInfoDemo\obj\Debug\FileAndFileInfoDemo.pdb

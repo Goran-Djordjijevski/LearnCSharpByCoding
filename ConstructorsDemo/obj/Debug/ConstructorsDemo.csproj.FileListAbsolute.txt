@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\bin\Debug\ConstructorsDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\bin\Debug\ConstructorsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\bin\Debug\ConstructorsDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\obj\Debug\ConstructorsDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\obj\Debug\ConstructorsDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\obj\Debug\ConstructorsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsDemo\obj\Debug\ConstructorsDemo.pdb

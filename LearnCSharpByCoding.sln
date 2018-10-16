@@ -69,6 +69,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathDemo", "PathDemo\PathDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFilesExercise", "WorkingWithFilesExercise\WorkingWithFilesExercise.csproj", "{B4430A24-FC02-4F57-B233-3BE2A9965A90}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08Classes", "08Classes", "{455AD881-EAC8-4107-87A8-5FF82F21BA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoClasses", "DemoClasses\DemoClasses.csproj", "{40B2BEC9-D8A0-45DE-876E-457E3B831D5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +183,10 @@ Global
 		{B4430A24-FC02-4F57-B233-3BE2A9965A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4430A24-FC02-4F57-B233-3BE2A9965A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4430A24-FC02-4F57-B233-3BE2A9965A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B2BEC9-D8A0-45DE-876E-457E3B831D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B2BEC9-D8A0-45DE-876E-457E3B831D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B2BEC9-D8A0-45DE-876E-457E3B831D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B2BEC9-D8A0-45DE-876E-457E3B831D5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -210,6 +218,7 @@ Global
 		{1C01BFDC-3FD6-4164-BFA0-A80C6A3DF705} = {271C681F-A4E6-4CBB-B2B5-52C7ACC365E0}
 		{C81B0383-CBB4-44CF-AA0D-DB1E869D430A} = {271C681F-A4E6-4CBB-B2B5-52C7ACC365E0}
 		{B4430A24-FC02-4F57-B233-3BE2A9965A90} = {271C681F-A4E6-4CBB-B2B5-52C7ACC365E0}
+		{40B2BEC9-D8A0-45DE-876E-457E3B831D5D} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

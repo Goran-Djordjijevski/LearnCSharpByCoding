@@ -20,6 +20,7 @@ namespace TypeConversion
             byte bSecond = (byte)second;
             Console.WriteLine(bSecond);
 
+            // Non-compatible types
             string number = "1234";
             int convertNumber = Convert.ToInt32(number);
             Console.WriteLine(convertNumber);

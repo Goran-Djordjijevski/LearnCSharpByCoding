@@ -10,7 +10,7 @@ namespace VariablesAndConstants
     {
         static void Main(string[] args)
         {
-            byte number = 2; // You must initialize variable before use.
+            byte number = 2; // You must initialize variable before use it.
             Console.WriteLine(number); // Cannot read the value of a variable unless you have set it before.
 
             int count = 10;
@@ -35,7 +35,7 @@ namespace VariablesAndConstants
 
             // Declare constants
             const float Pi = 3.14f;
-            // Pi = 1;  We can't chage the value 
+            // Pi = 1;  We can't change the value 
             Console.WriteLine(Pi);
 
             Console.ReadLine();

@@ -23,6 +23,10 @@ namespace Operators
             Console.WriteLine(third > second && third > first); // Result is true
             Console.WriteLine(third > second || third > first); // Result is true
 
+            byte number = 255;
+            number += 2;
+            Console.WriteLine(number);
+
             Console.ReadLine();
         }
     }

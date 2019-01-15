@@ -14,6 +14,8 @@ namespace ConstructorsDemo
             Console.WriteLine(customer.Id);
             Console.WriteLine(customer.Name);
 
+            var cust = new Customer();
+
             Console.ReadLine();
         }
     }

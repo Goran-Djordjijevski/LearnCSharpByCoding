@@ -14,6 +14,9 @@ namespace DemoClasses
             person.Name = "Goran";
             person.Introduce("Pixi");
 
+            var per = Person.Parse("Test");
+            Console.WriteLine(per.Name);
+
             Console.ReadLine();
         }
     }

@@ -10,11 +10,17 @@ namespace MethodsDemo
     {
         static void Main(string[] args)
         {
-            //var number = int.Parse("abc");
+            //UsePoints();
+
+            //UseParams();
+
+            //int number = int.Parse("abc");
+            //Console.WriteLine(number);
 
             int number;
-            var convert = int.TryParse("abc", out number);
-            if (convert == true)
+            var result = int.TryParse(s: "abc", result: out number);
+
+            if (result)
             {
                 Console.WriteLine(number);
             }

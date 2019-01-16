@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\obj\Debug\FieldsDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\obj\Debug\FieldsDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\bin\Debug\FieldsDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\bin\Debug\FieldsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\bin\Debug\FieldsDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\obj\Debug\FieldsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\FieldsDemo\obj\Debug\FieldsDemo.pdb

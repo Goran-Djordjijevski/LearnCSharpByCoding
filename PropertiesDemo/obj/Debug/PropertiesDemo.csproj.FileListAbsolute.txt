@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\obj\Debug\PropertiesDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\PropertiesDemo\obj\Debug\PropertiesDemo.pdb

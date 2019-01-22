@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersDemo", "Acce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemo", "PropertiesDemo\PropertiesDemo.csproj", "{8A2AA5B8-85E0-4853-9FF6-AA5975EA4877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersDemo", "IndexersDemo\IndexersDemo.csproj", "{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -217,6 +219,10 @@ Global
 		{8A2AA5B8-85E0-4853-9FF6-AA5975EA4877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A2AA5B8-85E0-4853-9FF6-AA5975EA4877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A2AA5B8-85E0-4853-9FF6-AA5975EA4877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -254,6 +260,7 @@ Global
 		{98AA5F83-0F11-492C-8B68-7DB8E3199012} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
 		{8756D263-CECD-4162-A5F4-F87A3AB791DB} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
 		{8A2AA5B8-85E0-4853-9FF6-AA5975EA4877} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
+		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

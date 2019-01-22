@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\bin\Debug\IndexersDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\bin\Debug\IndexersDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\bin\Debug\IndexersDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\obj\Debug\IndexersDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\obj\Debug\IndexersDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\IndexersDemo\obj\Debug\IndexersDemo.pdb

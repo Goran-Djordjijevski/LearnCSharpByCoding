@@ -85,6 +85,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PropertiesDemo", "Propertie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexersDemo", "IndexersDemo\IndexersDemo.csproj", "{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercises", "Exercises", "{03B1CD06-F5A4-4A78-BAF3-FD796317C09B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{39C7F81A-D69A-448F-9085-6A20E6C7025E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -223,6 +227,10 @@ Global
 		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C7F81A-D69A-448F-9085-6A20E6C7025E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C7F81A-D69A-448F-9085-6A20E6C7025E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C7F81A-D69A-448F-9085-6A20E6C7025E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C7F81A-D69A-448F-9085-6A20E6C7025E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -261,6 +269,7 @@ Global
 		{8756D263-CECD-4162-A5F4-F87A3AB791DB} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
 		{8A2AA5B8-85E0-4853-9FF6-AA5975EA4877} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
 		{D17650BE-7C20-48A8-A8A5-10010C3BE5F6} = {455AD881-EAC8-4107-87A8-5FF82F21BA2C}
+		{39C7F81A-D69A-448F-9085-6A20E6C7025E} = {03B1CD06-F5A4-4A78-BAF3-FD796317C09B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

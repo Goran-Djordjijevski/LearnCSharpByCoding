@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\bin\Debug\StopWatchExercise.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\bin\Debug\StopWatchExercise.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\bin\Debug\StopWatchExercise.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\obj\Debug\StopWatchExercise.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\obj\Debug\StopWatchExercise.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\obj\Debug\StopWatchExercise.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StopWatchExercise\obj\Debug\StopWatchExercise.csprojAssemblyReference.cache

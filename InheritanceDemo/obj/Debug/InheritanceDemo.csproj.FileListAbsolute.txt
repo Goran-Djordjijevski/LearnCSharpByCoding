@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\obj\Debug\InheritanceDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

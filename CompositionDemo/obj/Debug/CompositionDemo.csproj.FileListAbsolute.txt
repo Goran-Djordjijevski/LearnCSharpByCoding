@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\bin\Debug\CompositionDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\bin\Debug\CompositionDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\bin\Debug\CompositionDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\obj\Debug\CompositionDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\obj\Debug\CompositionDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\obj\Debug\CompositionDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\CompositionDemo\obj\Debug\CompositionDemo.pdb

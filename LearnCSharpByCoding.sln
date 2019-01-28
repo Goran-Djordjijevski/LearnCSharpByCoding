@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersOOPDemo", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{B6F872A6-A463-4632-BFFE-271DE19B8344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritanceDemo", "ConstructorsAndInheritanceDemo\ConstructorsAndInheritanceDemo.csproj", "{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -259,6 +261,10 @@ Global
 		{B6F872A6-A463-4632-BFFE-271DE19B8344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6F872A6-A463-4632-BFFE-271DE19B8344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6F872A6-A463-4632-BFFE-271DE19B8344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -302,6 +308,7 @@ Global
 		{C314F2B2-A190-40C3-BF53-269DD9EAA599} = {C5862260-6287-421F-9096-EC712ACE70D5}
 		{DBEFF2E9-10FD-4AA1-883B-4DCA753F47C3} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{B6F872A6-A463-4632-BFFE-271DE19B8344} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
+		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\bin\Debug\ConstructorsAndInheritanceDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\bin\Debug\ConstructorsAndInheritanceDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\bin\Debug\ConstructorsAndInheritanceDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\obj\Debug\ConstructorsAndInheritanceDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\obj\Debug\ConstructorsAndInheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\obj\Debug\ConstructorsAndInheritanceDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\ConstructorsAndInheritanceDemo\obj\Debug\ConstructorsAndInheritanceDemo.pdb

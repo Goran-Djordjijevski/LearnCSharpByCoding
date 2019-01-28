@@ -1,0 +1,10 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\bin\Debug\AccessModifiersOOPDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\bin\Debug\AccessModifiersOOPDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\bin\Debug\AccessModifiersOOPDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\obj\Debug\AccessModifiersOOPDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\obj\Debug\AccessModifiersOOPDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\obj\Debug\AccessModifiersOOPDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\obj\Debug\AccessModifiersOOPDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\bin\Debug\Amazon.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\bin\Debug\Amazon.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\AccessModifiersOOPDemo\obj\Debug\AccessModifiersOOPDemo.csproj.CopyComplete

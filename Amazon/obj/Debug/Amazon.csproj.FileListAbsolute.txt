@@ -1,0 +1,5 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Amazon\bin\Debug\Amazon.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Amazon\bin\Debug\Amazon.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Amazon\obj\Debug\Amazon.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Amazon\obj\Debug\Amazon.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\Amazon\obj\Debug\Amazon.pdb

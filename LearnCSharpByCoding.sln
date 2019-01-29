@@ -105,6 +105,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritanceD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingAndDowncastingDemo", "UpcastingAndDowncastingDemo\UpcastingAndDowncastingDemo.csproj", "{309251C4-9BEC-40BC-9CD9-6AE627051800}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing", "BoxingAndUnboxing\BoxingAndUnboxing.csproj", "{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,10 @@ Global
 		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -316,6 +322,7 @@ Global
 		{B6F872A6-A463-4632-BFFE-271DE19B8344} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{309251C4-9BEC-40BC-9CD9-6AE627051800} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
+		{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\bin\Debug\UpcastingAndDowncastingDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\bin\Debug\UpcastingAndDowncastingDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\bin\Debug\UpcastingAndDowncastingDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\obj\Debug\UpcastingAndDowncastingDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\obj\Debug\UpcastingAndDowncastingDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\obj\Debug\UpcastingAndDowncastingDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\UpcastingAndDowncastingDemo\obj\Debug\UpcastingAndDowncastingDemo.pdb

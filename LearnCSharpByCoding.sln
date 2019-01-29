@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorsAndInheritanceDemo", "ConstructorsAndInheritanceDemo\ConstructorsAndInheritanceDemo.csproj", "{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpcastingAndDowncastingDemo", "UpcastingAndDowncastingDemo\UpcastingAndDowncastingDemo.csproj", "{309251C4-9BEC-40BC-9CD9-6AE627051800}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,10 @@ Global
 		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309251C4-9BEC-40BC-9CD9-6AE627051800}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -309,6 +315,7 @@ Global
 		{DBEFF2E9-10FD-4AA1-883B-4DCA753F47C3} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{B6F872A6-A463-4632-BFFE-271DE19B8344} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{12F25FCB-7FCB-455B-8F64-226DFBC3DC0F} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
+		{309251C4-9BEC-40BC-9CD9-6AE627051800} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

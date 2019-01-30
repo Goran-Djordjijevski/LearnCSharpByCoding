@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.pdb

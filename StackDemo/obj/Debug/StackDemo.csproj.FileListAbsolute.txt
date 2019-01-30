@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\bin\Debug\StackDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\bin\Debug\StackDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\bin\Debug\StackDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\obj\Debug\StackDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\obj\Debug\StackDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\obj\Debug\StackDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\StackDemo\obj\Debug\StackDemo.pdb

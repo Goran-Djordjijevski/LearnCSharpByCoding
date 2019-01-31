@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\bin\Debug\MethodOverriding.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\bin\Debug\MethodOverriding.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\bin\Debug\MethodOverriding.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\obj\Debug\MethodOverriding.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\obj\Debug\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\obj\Debug\MethodOverriding.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\MethodOverriding\obj\Debug\MethodOverriding.pdb

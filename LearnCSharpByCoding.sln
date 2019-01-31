@@ -109,6 +109,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing", "Boxing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackDemo", "StackDemo\StackDemo.csproj", "{BCFB7699-CF47-44D1-B385-EB5BCB98497D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11PolymorphismThirdPillarOfOOP", "11PolymorphismThirdPillarOfOOP", "{A1F3EEE8-5826-4811-AF78-EAF79CBBA7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodOverriding\MethodOverriding.csproj", "{FC5C5AD6-3C44-42D3-A2C0-8D569A982E27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -283,6 +287,10 @@ Global
 		{BCFB7699-CF47-44D1-B385-EB5BCB98497D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCFB7699-CF47-44D1-B385-EB5BCB98497D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCFB7699-CF47-44D1-B385-EB5BCB98497D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC5C5AD6-3C44-42D3-A2C0-8D569A982E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5C5AD6-3C44-42D3-A2C0-8D569A982E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5C5AD6-3C44-42D3-A2C0-8D569A982E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5C5AD6-3C44-42D3-A2C0-8D569A982E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +338,7 @@ Global
 		{309251C4-9BEC-40BC-9CD9-6AE627051800} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{7C2DD30F-A0A2-4E98-9B33-FF8EBA80C776} = {10BCFDCD-0679-4B45-8AC8-8CDD10487EF2}
 		{BCFB7699-CF47-44D1-B385-EB5BCB98497D} = {03B1CD06-F5A4-4A78-BAF3-FD796317C09B}
+		{FC5C5AD6-3C44-42D3-A2C0-8D569A982E27} = {A1F3EEE8-5826-4811-AF78-EAF79CBBA7A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

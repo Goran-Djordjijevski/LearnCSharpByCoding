@@ -1,0 +1,17 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\InteracesAndTestability.Tests.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\InteracesAndTestability.Tests.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\obj\Debug\InteracesAndTestability.Tests.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\obj\Debug\InteracesAndTestability.Tests.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\obj\Debug\InteracesAndTestability.Tests.csproj.CopyComplete
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\obj\Debug\InteracesAndTestability.Tests.dll
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\obj\Debug\InteracesAndTestability.Tests.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\InterfacesAndTestability.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\InterfacesAndTestability.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InteracesAndTestability.Tests\bin\Debug\InterfacesAndTestability.exe.config

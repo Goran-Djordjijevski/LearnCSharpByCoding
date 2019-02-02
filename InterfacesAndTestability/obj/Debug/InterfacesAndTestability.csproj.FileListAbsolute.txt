@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.pdb

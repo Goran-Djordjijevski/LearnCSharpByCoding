@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.pdb

@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\bin\Debug\GenericsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\bin\Debug\GenericsDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\obj\Debug\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\obj\Debug\GenericsDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\GenericsDemo\obj\Debug\GenericsDemo.pdb

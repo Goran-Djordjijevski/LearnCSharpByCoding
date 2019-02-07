@@ -123,10 +123,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteracesAndTestability.Tes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndExtensibility", "InterfacesAndExtensibility\InterfacesAndExtensibility.csproj", "{7BDEE84A-37D5-48C2-B965-236D471C08F5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13CsharpAdvanced", "13CsharpAdvanced", "{3506BF10-5B0F-4998-8126-9DB3DEC62EE9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsDemo", "GenericsDemo\GenericsDemo.csproj", "{DF077F05-38F5-40C6-8CEF-B13FDEBF357A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,10 +317,6 @@ Global
 		{7BDEE84A-37D5-48C2-B965-236D471C08F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BDEE84A-37D5-48C2-B965-236D471C08F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BDEE84A-37D5-48C2-B965-236D471C08F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DF077F05-38F5-40C6-8CEF-B13FDEBF357A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF077F05-38F5-40C6-8CEF-B13FDEBF357A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF077F05-38F5-40C6-8CEF-B13FDEBF357A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF077F05-38F5-40C6-8CEF-B13FDEBF357A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -377,7 +369,6 @@ Global
 		{18AC9C8B-1C8E-49EF-A710-1F79AD461B69} = {8B4E3429-404A-4C0E-8E04-185A55D68434}
 		{B07A6CEE-357B-4D6C-875C-62DDEDB5ED6B} = {8B4E3429-404A-4C0E-8E04-185A55D68434}
 		{7BDEE84A-37D5-48C2-B965-236D471C08F5} = {8B4E3429-404A-4C0E-8E04-185A55D68434}
-		{DF077F05-38F5-40C6-8CEF-B13FDEBF357A} = {3506BF10-5B0F-4998-8126-9DB3DEC62EE9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBD43ECA-FC21-42BD-AACB-73667614A664}

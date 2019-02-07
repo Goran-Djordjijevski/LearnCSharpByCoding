@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\bin\Debug\DelegatesDemo.exe.config
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\bin\Debug\DelegatesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\bin\Debug\DelegatesDemo.pdb
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\obj\Debug\DelegatesDemo.csprojAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\obj\Debug\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\obj\Debug\DelegatesDemo.exe
+C:\Users\goran\Documents\GitHub\LearnCSharpByCoding\DelegatesDemo\obj\Debug\DelegatesDemo.pdb
